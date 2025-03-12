@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./app.css";
+// import "./app.css";
 
 export default function Chatbot() {
   const [messages, setMessages] = useState([]);
